@@ -3,10 +3,10 @@
  * @author Marda33
  * @version ersion 1.35
  *
- * @var color accentcolor "Accent color" #3B4C81
+ * @var color accentcolor "Accent color" #ba2cbf
  * @var text bg-image "Background image" 
 */
-@import url("https://marda33.github.io/SkeuoCord/updates/SkeuoCord_BGImport.css");
+@import url("https://SweetViaRB.github.io/SkeuoCordPink/updates/SkeuoCord_BGImport.css");
 
 /*colorBrand*/
 .lookFilled__950dd.colorBrand__27d57, .lookInverted_a299dc.colorBrand__27d57, .lookOutlined__014b5.colorBrand__27d57, .lookFilled__950dd.colorBrandNew__8872c, .lookInverted_a299dc.colorBrandNew__8872c, .compactButton__00b66, .footer.footer-2yfCgX.footer_c33701.footer-1hTRRZ button, .subscribeTooltipButton-r9C2rU, .subscribeTooltipButton-rIF3w3, .pageButton_bf9853.activeButton__70b70, .shinyButton_d5e126, .ripple__74f0d, .playButtonContainer_bf2199,
